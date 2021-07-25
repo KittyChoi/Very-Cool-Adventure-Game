@@ -1,4 +1,3 @@
-#We write functions that led us to win the game first, then we do the losing doors -----> building blocks down up method, make yours elgo bricks first, then connect them afterwards
 import time
 
 def lobby():
